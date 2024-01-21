@@ -1,6 +1,8 @@
 # Neumorphism-Analog-Clock
 
 
+# 
+
 The use of a neumorphic analog clock, like any other clock, is primarily to display and communicate the current time in a visually appealing and user-friendly manner. However, the specific design choice of using neumorphism brings some additional aspects to consider:
 
 Aesthetic Appeal: Neumorphism is a design trend that creates a soft, three-dimensional look, often resembling physical objects. The neumorphic style can add a modern and visually pleasing aesthetic to the analog clock, making it stand out and enhancing the overall user experience.
